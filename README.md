@@ -13,8 +13,8 @@ Family Relationships: Analyzes the presence of siblings or parents among passeng
 Age-Class Relationship: Investigates the relationship between age and passenger class, uncovering age-related patterns within different socioeconomic groups.
 ## Libraries Used:
 
-Pandas: Utilized for data manipulation and analysis, facilitating efficient data processing and exploration.
-Seaborn: Employed for creating informative and visually appealing statistical visualizations, enhancing data interpretation and storytelling.
-Matplotlib: Utilized for additional data visualization and customization, enabling the creation of diverse chart types and layouts.
+- Pandas: Utilized for data manipulation and analysis, facilitating efficient data processing and exploration.
+- Seaborn: Employed for creating informative and visually appealing statistical visualizations, enhancing data interpretation and storytelling.
+- Matplotlib: Utilized for additional data visualization and customization, enabling the creation of diverse chart types and layouts.
 ## Conclusion:
 Through a combination of descriptive statistics and visualizations, this project provides valuable insights into the demographics, survival rates, and socio-economic dynamics of Titanic passengers. By leveraging Python libraries such as Pandas, Seaborn, and Matplotlib, the analysis offers a compelling narrative and enhances understanding of one of the most infamous maritime disasters in history.
